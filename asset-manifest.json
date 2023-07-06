@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TextCounter-App/static/css/main.31d6cfe0.css",
+    "main.js": "/TextCounter-App/static/js/main.172e985b.js",
+    "static/js/787.bdbc7bb0.chunk.js": "/TextCounter-App/static/js/787.bdbc7bb0.chunk.js",
+    "index.html": "/TextCounter-App/index.html",
+    "main.172e985b.js.map": "/TextCounter-App/static/js/main.172e985b.js.map",
+    "787.bdbc7bb0.chunk.js.map": "/TextCounter-App/static/js/787.bdbc7bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.172e985b.js"
+  ]
+}
